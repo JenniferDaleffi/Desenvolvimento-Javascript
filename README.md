@@ -1,4 +1,4 @@
-# Desenvolvimento com JavaScript - Relembre 
+# Desenvolvimento com JavaScript - Relembre 🇧🇷
 ## AULA 02 - MOBILE APPLICATION DEVELOPMENT
 
 Professor: Anderson Adriano Godoy 📚 - FIAP
